@@ -1,4 +1,4 @@
-### Salam, programcı...👋
+### Salam, Mən MR AĞA Super Fast programcı...👋
 
 <!--
 **AzeMusic/AzeMusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
