@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 
+[![MR AĞA github stats](https://github-readme-stats.vercel.app/api?username=AzeMusic&show_icons=true&theme=cobalt&count_private=true)](https://github.com/AzeMusic)
 -->
 
 <a href="https://github.com/AzeMusic/github-stats">
