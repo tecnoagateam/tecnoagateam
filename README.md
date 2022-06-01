@@ -35,4 +35,6 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 <img src="https://github.com/AzeMusic/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 
+[![MR AĞA github stats](https://github-readme-stats.vercel.app/api?username=AzeMusic&show_icons=true&theme=cobalt&count_private=true)](https://github.com/AzeMusic)
+
 </a>
