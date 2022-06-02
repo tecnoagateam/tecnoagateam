@@ -10,6 +10,30 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AzeMusic)
 
+ |\.            ./|          
+ |.\.          ./.|
+ |..\.        ./..|
+ |. .\.      ./. .|
+ |.  .\.    ./.  .|        
+ |.\. .\.  ./. ./.|
+ |..\. .\../. ./..|
+ |. .\. .\/. ./. .|
+ |.  .\.    ./.  .|
+ |.   .\.  ./.   .|
+ |.    .\../.    .|
+ |.              .|
+ |.              .|
+ |.              .|
+ |.              .|
+ 
+
+ 
+
+
+
+
+
+
 <img src="https://github.com/AzeMusic/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 
 <img src="https://github.com/AzeMusic/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
