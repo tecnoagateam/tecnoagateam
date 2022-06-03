@@ -1,9 +1,9 @@
  • Salam, Mən MR AĞA Super Fast programcı...👋
- 
+_______ 
            🖤 Telegram 🖤
 [![MR AĞA](https://telegra.ph/file/d12e2aa72629dc7b5c59f.jpg)](https://t.me/Tenha055)
 
-
+_______
 
 [![MR AĞA github stats](https://github-readme-stats.vercel.app/api?username=AzeMusic&show_icons=true&theme=cobalt&count_private=true)](https://github.com/AzeMusic)
 
