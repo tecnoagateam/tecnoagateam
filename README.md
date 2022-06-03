@@ -6,9 +6,15 @@ _______
            🖤 TELEGRAM 🖤
 _______
 
-[![MR AĞA github stats](https://github-readme-stats.vercel.app/api?username=AzeMusic&show_icons=true&theme=cobalt&count_private=true)](https://github.com/AzeMusic)
+## Github Stats
+![MR AĞA's's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzeMusic&show_icons=true&theme=synthwave) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzeMusic&layout=compact&show_icons=true&theme=synthwave)
 
-[![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AzeMusic&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/AzeMusic)
+
+# Activity Graph
+
+
+![MR Ağa's's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=AzeMusic&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=AzeMusic)
 
