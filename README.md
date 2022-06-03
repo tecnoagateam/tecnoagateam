@@ -5,7 +5,7 @@
 
 
 
-[![MR AĞA github stats](https://github-readme-stats.vercel.app/api?username=AzeMusic&show_icons=true&theme=cobalt&count_private=true)](https://github.com/AzeMusic)
+[![MR AĞA github stats](https://github-readme-stats.vercel.app/api?username=AzeMusic&show_icons=true&theme=cobalt&count_private=true)](https://github.com/Aze)
 
 [![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=AzeMusic&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/AzeMusic)
 
