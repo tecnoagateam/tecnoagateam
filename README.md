@@ -1,6 +1,6 @@
  • Salam, Mən MR AĞA Super Fast programcı...👋
  
-             🖤 Telegram 🖤
+         🖤 Telegram 🖤
 [![MR AĞA](https://telegra.ph/file/d12e2aa72629dc7b5c59f.jpg)](https://t.me/Tenha055)
 
 
