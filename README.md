@@ -7,7 +7,7 @@ _______
 _______
 
 ## Github Stats
-![MR AĞA's's GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnoagateam&show_icons=true&theme=synthwave) &nbsp;
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnoagateam&show_icons=true&theme=synthwave) &nbsp;
 
 
 
