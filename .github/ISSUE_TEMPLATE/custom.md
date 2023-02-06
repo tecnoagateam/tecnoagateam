@@ -1,7 +1,7 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
+name: Tecno Team
+about: tecno team create template github stats repo 
+title: 'github-stats'
 labels: ''
 assignees: ''
 
