@@ -1,13 +1,18 @@
  • Salam, Mən MR AĞA Super Fast programçı...👋
 _______ 
            
-[![MR AĞA](https://telegra.ph/file/d12e2aa72629dc7b5c59f.jpg)](https://t.me/Tenha055)
          
-
 _______
 
-## Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnoagateam&show_icons=true&theme=synthwave) &nbsp;
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/tecnoagateam)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/tenha055)
+
+ ## My Stats
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnoagateam&show_icons=true&theme=radical)
+
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnoagateam&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/tecnoagateam)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=tecnoagateam)
 
 
 
