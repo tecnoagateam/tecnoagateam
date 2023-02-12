@@ -27,7 +27,9 @@ _______
 
 
 
-
+<a href="https://github.com/tecnoagateam">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tecnoagateam&repo=tecnoagateam&cache_seconds=86400&theme=gotham">
+</a>
 
 </a>
 
