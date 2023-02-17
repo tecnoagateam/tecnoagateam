@@ -1,6 +1,8 @@
- • Salam, Mən MR AĞA Super Fast programçı...👋
+ • 
 _______ 
-           
+<p align="center">
+  <a href="https://github.com/tecnoagateam"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Salam+👋🏻+;.Mən+MR+AĞA+Super+Fast+programçı..." alt="aga">
+</p>           
          
 _______
 
