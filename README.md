@@ -1,10 +1,8 @@
-
-_______ 
+![MR AĞA](https://www.tamilblasters.lol/uploads/monthly_2020_02/torrborder.gif.76a54db1a11406f9ba80146699b99b74.gif)
 <p align="center">
-  <a href="https://github.com/tecnoagateam"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Salam+👋🏻+;.Mən+MR+AĞA+Super+Fast+programçı..." alt="aga">
+  <a href="https://github.com/tecnoagateam"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Salam+Xoş+Gəldin+☺️+;.Mən+MR+AĞA+Super+Fast+Developer..." alt="aga">
 </p>           
          
-_______
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/tecnoagateam)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/tenha055)
@@ -35,11 +33,11 @@ _______
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tecnoagateam&repo=tecnoagateam&cache_seconds=86400&theme=gotham">
 </a>
 
-</a>
+
+![MR AĞA](https://www.tamilblasters.lol/uploads/monthly_2020_02/torrborder.gif.76a54db1a11406f9ba80146699b99b74.gif)
 
 
 
-</a>
 
  
 
