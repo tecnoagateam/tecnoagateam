@@ -15,6 +15,8 @@
 
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnoagateam&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/tecnoagateam)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tecnoagateam&theme=chartreuse-dark" alt="mystreak"/>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=tecnoagateam)
 
 
@@ -29,9 +31,6 @@
 
 
 
-<a href="https://github.com/tecnoagateam">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tecnoagateam&repo=tecnoagateam&cache_seconds=86400&theme=gotham">
-</a>
 
 
 ![MR AĞA](https://www.tamilblasters.lol/uploads/monthly_2020_02/torrborder.gif.76a54db1a11406f9ba80146699b99b74.gif)
