@@ -24,6 +24,7 @@
 🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
  
 <p align="center">
+<img width="13%" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" />
 <img width="13%" src="https://telegra.ph/file/b490b39f93ec158ddf21f.png" />
 <img width="13%" src="https://telegra.ph/file/72882469165faec6d2e03.jpg" />
 </p>
