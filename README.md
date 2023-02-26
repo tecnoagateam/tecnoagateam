@@ -18,7 +18,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tecnoagateam&theme=chartreuse-dark" alt="mystreak"/>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=tecnoagateam)
-
+![VİSİTOR 🙃](https://profile-counter.glitch.me/{tecnoagateam}/count.svg)
 
 
 🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
