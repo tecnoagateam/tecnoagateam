@@ -1,4 +1,7 @@
-![MR AĞA](https://www.tamilblasters.lol/uploads/monthly_2020_02/torrborder.gif.76a54db1a11406f9ba80146699b99b74.gif)
+<p align="center">
+<a href="https://github.com/tecnoagateam/tecnoagateam"><img src="https://www.tamilblasters.lol/uploads/monthly_2020_02/torrborder.gif.76a54db1a11406f9ba80146699b99b74.gif" alt="aga">
+<a href="https://github.com/tecnoagateam/tecnoagateam"><img src="https://www.tamilblasters.lol/uploads/monthly_2020_02/torrborder.gif.76a54db1a11406f9ba80146699b99b74.gif" alt="aga">
+</p>
 <p align="center">
   <a href="https://github.com/tecnoagateam"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Salam+Xoş+Gəldin+☺️+;.Mən+MR+AĞA+Super+Fast+Developer..." alt="aga">
 </p>           
@@ -34,8 +37,10 @@
 <img width="500%" src="https://avatars.githubusercontent.com/u/99508889?s=96&v=4" />
 
 
-![MR AĞA](https://www.tamilblasters.lol/uploads/monthly_2020_02/torrborder.gif.76a54db1a11406f9ba80146699b99b74.gif)
-
+<p align="center">
+<a href="https://github.com/tecnoagateam/tecnoagateam"><img src="https://www.tamilblasters.lol/uploads/monthly_2020_02/torrborder.gif.76a54db1a11406f9ba80146699b99b74.gif" alt="aga">
+<a href="https://github.com/tecnoagateam/tecnoagateam"><img src="https://www.tamilblasters.lol/uploads/monthly_2020_02/torrborder.gif.76a54db1a11406f9ba80146699b99b74.gif" alt="aga">
+</p>
 
 
 
