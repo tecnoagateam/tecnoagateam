@@ -37,7 +37,7 @@
 
 
 
-<img width="500%" src="https://avatars.githubusercontent.com/u/99508889?s=96&v=4" />
+<img width="100%" src="https://user-images.githubusercontent.com/99508889/222697764-80987be0-dfae-47cc-b889-0836e25ea7a4.jpg" />
 
 
 <p align="center">
@@ -54,11 +54,11 @@
 
 
 
-<img src="https://github.com/tecnoagateam/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 
-<img src="https://github.com/tecnoagateam/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 
-</a>
+
+
+
 
 
  
