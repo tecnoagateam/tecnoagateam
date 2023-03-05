@@ -35,9 +35,13 @@
 <img width="13%" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" />
 </p>
 
+🌐 Connect with me:
+<p align="center">
+<palign="left">
+<a href="https://twitter.com/pubgaga000"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"alt="agatecno" height="30" width="40" /></a>
+<a href="https://instagram.com/pubg.aga000"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"alt="agatecno" height="30" width="40" /></a>
+</p>
 
-
-<img width="100%" src="https://user-images.githubusercontent.com/99508889/222697764-80987be0-dfae-47cc-b889-0836e25ea7a4.jpg" />
 
 
 <p align="center">
@@ -47,7 +51,7 @@
 
 
 
- 
+
 
 
 
