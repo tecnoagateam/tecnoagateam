@@ -2,8 +2,8 @@
 > ```MR AĞA README``` 
 > 
 <p align="center">
-<a href="https://github.com/tecnoagateam/tecnoagateam"><img src="https://www.tamilblasters.lol/uploads/monthly_2020_02/torrborder.gif.76a54db1a11406f9ba80146699b99b74.gif" alt="aga">
-<a href="https://github.com/tecnoagateam/tecnoagateam"><img src="https://www.tamilblasters.lol/uploads/monthly_2020_02/torrborder.gif.76a54db1a11406f9ba80146699b99b74.gif" alt="aga">
+<a href="https://github.com/tecnoagateam/tecnoagateam"><img src="https://camo.githubusercontent.com/1219a6e6ef53f18fca8d3cdbc10ec484f8757a059a99308fce65f18cd9f4024d/68747470733a2f2f7777772e74616d696c626c6173746572732e6c6f6c2f75706c6f6164732f6d6f6e74686c795f323032305f30322f746f7272626f726465722e6769662e37366135346462316131313430366639626138303134363639396239396237342e676966" alt="aga">
+<a href="https://github.com/tecnoagateam/tecnoagateam"><img src="https://camo.githubusercontent.com/1219a6e6ef53f18fca8d3cdbc10ec484f8757a059a99308fce65f18cd9f4024d/68747470733a2f2f7777772e74616d696c626c6173746572732e6c6f6c2f75706c6f6164732f6d6f6e74686c795f323032305f30322f746f7272626f726465722e6769662e37366135346462316131313430366639626138303134363639396239396237342e676966" alt="aga">
 </p>
 <p align="center">
   <a href="https://github.com/tecnoagateam"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Salam+Xoş+Gəldin+☺️+;.Mən+MR+AĞA+Super+Fast+Developer..." alt="aga">
@@ -45,8 +45,8 @@
 
 
 <p align="center">
-<a href="https://github.com/tecnoagateam/tecnoagateam"><img src="https://www.tamilblasters.lol/uploads/monthly_2020_02/torrborder.gif.76a54db1a11406f9ba80146699b99b74.gif" alt="aga">
-<a href="https://github.com/tecnoagateam/tecnoagateam"><img src="https://www.tamilblasters.lol/uploads/monthly_2020_02/torrborder.gif.76a54db1a11406f9ba80146699b99b74.gif" alt="aga">
+<a href="https://github.com/tecnoagateam/tecnoagateam"><img src="https://camo.githubusercontent.com/1219a6e6ef53f18fca8d3cdbc10ec484f8757a059a99308fce65f18cd9f4024d/68747470733a2f2f7777772e74616d696c626c6173746572732e6c6f6c2f75706c6f6164732f6d6f6e74686c795f323032305f30322f746f7272626f726465722e6769662e37366135346462316131313430366639626138303134363639396239396237342e676966" alt="aga">
+<a href="https://github.com/tecnoagateam/tecnoagateam"><img src="https://camo.githubusercontent.com/1219a6e6ef53f18fca8d3cdbc10ec484f8757a059a99308fce65f18cd9f4024d/68747470733a2f2f7777772e74616d696c626c6173746572732e6c6f6c2f75706c6f6164732f6d6f6e74686c795f323032305f30322f746f7272626f726465722e6769662e37366135346462316131313430366639626138303134363639396239396237342e676966" alt="aga">
 </p>
 
 
